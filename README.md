@@ -36,7 +36,3 @@ A smart, machine-learning-powered tool to detect anomalies in server logs. Built
 ```bash
 git clone https://github.com/reprisalviper/ai-log-analyzer.git
 cd ai-log-analyzer
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
